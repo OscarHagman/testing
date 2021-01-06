@@ -1,2 +1,3 @@
-print("ey, EY\nlmao, LMAO")
+print("ey, EY!")
+print("lmao, LMAO!")
 
